@@ -8,7 +8,7 @@ int main(){
     if(idadeBianca == idadeLucas){
         printf("Bianca tem a mesma idade que Lucas!");
     }
-    else { printf("Lucas nao tem a mesma idade Bianca!");
+    else { printf("Lucas nao tem a mesma idade que Bianca!");
     }
 
     }
